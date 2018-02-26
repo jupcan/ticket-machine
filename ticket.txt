@@ -16,3 +16,5 @@ Total price of %d tickets is $%.2f
 
 Total price of %d tickets is $%.2f 
 
+Total price of %d tickets is $%.2f 
+
