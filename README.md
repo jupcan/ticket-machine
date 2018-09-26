@@ -1,1 +1,1 @@
-# ticket_machine
+# ticket-machine
